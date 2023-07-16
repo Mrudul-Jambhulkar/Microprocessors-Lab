@@ -16,5 +16,18 @@ output 25
 else:
 output 35
 
+display_encoded_signals_LED:  Using the board to read inputs, quantize and encode the inputs,
+and display the encoded digital outputs using the on-board LEDs.
+
+keyboardinterfacing:The task is to write an embedded C program to read password using
+keypad and grant (or deny) access based on the correctness of the password.
+
+musicalnotes:Used software delays to produce square wave-forms of appropriate frequency.
+Based on the inputs given through switches (P1.0 to P1.3), the square waveform of required frequency must be written to P0.7. 
+
+stopwatch:Embedded C code to create a STOP-WATCH using external
+event counter and LCD
+
+
 
 
